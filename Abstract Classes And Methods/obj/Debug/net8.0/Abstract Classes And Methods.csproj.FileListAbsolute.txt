@@ -1,0 +1,15 @@
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/bin/Debug/net8.0/Abstract Classes And Methods
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/bin/Debug/net8.0/Abstract Classes And Methods.deps.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/bin/Debug/net8.0/Abstract Classes And Methods.runtimeconfig.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/bin/Debug/net8.0/Abstract Classes And Methods.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/bin/Debug/net8.0/Abstract Classes And Methods.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/Abstract Classes And Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/Abstract Classes And Methods.AssemblyInfoInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/Abstract Classes And Methods.AssemblyInfo.cs
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/Abstract Classes And Methods.csproj.CoreCompileInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/Abstract Classes And Methods.sourcelink.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/Abstract Classes And Methods.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/refint/Abstract Classes And Methods.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/Abstract Classes And Methods.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/Abstract Classes And Methods.genruntimeconfig.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment2-10982355/Abstract Classes And Methods/obj/Debug/net8.0/ref/Abstract Classes And Methods.dll
