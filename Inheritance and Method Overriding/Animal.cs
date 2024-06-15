@@ -1,6 +1,6 @@
 using System;
 
-namespace AnimalProgram
+namespace AnimalsProgram
 {
     class Animal
     {

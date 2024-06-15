@@ -2,8 +2,9 @@
 using System;
 
 //Imports the Animal Program namespace so the class with its methods, properties and fields can be accessed
-using AnimalProgram;
-using DogProgram;
+using AnimalsProgram;
+using DogsProgram;
+using CatsProgram;
 
 namespace MainProgram
 {
@@ -25,6 +26,11 @@ namespace MainProgram
             Console.WriteLine("\nSound made by a Dog");
             //Calls the Make Sound method in the Dog class
             dog.MakeSound();
+
+            //Cat class instantiation
+            Cat cat = new Cat();
+            Console.WriteLine("\nSound made by a Cat");
+            cat.MakeSound();
         }
     }
 }
