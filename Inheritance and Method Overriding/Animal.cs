@@ -5,7 +5,7 @@ namespace AnimalProgram
     class Animal
     {
         //Creates a make sound method
-        internal protected void MakeSound()
+        internal protected virtual void MakeSound()
         {
             Console.WriteLine("Moo");
         }
